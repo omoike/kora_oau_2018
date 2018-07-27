@@ -1,7 +1,13 @@
-#### Team Name
+#### Team Clever
 
 
-#### Team Members (Names and Emails/Github Username)
+* Omoike Opeyemi omoikearamide@gmail.com https://github.com/omoike
 
+* Olasoji
+
+
+* 
 
 #### Your Solution
+
+https://github.com/omoike/kora_oau_2018
